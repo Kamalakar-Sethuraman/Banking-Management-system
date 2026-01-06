@@ -152,6 +152,6 @@ bank.exe
 
 ## 👨‍💻 Author
 
-Developed by **[Your Name]**
+Developed by **Kamalakar.S**
 Language: C
 Tested on: GCC / Code::Blocks
